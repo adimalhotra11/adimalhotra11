@@ -19,20 +19,20 @@
 </a>
 </a> <br /> <br />
 
-<p><em>Machine Learning Intern at <a href="https://www.linkedin.com/company/technocolabs">Technocolabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Looking For Internship in Data Analytics!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Maharaja Surajmal Institute of Technology(GGSIPU, Delhi)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-- 🔭 I’m currently working on getting my shit together.
-- 🔮 What do I do? - Predict the future via computer science black magic.
+- 🔭 I’m currently working on becoming a better analyst by analysing my mistakes.
+- 🔮 What do I do? - Complete my assignments and take part in Kaggle competitions
 - 🌱 I’m currently learning to use reinforcement learning in real life to control mechanical 
       conveyances for transporting people or goods...basically, I'm learning how to drive. 
-- 👯 I’m looking to collaborate on Machine Learning and Web Development related projects.
-- 🤔 I’m looking for help with LSTMs and college assignments. 
+- 👯 I’m looking to collaborate on Data Science related projects.
+- 🤔 I’m looking for help with being more productive during the pandemic. 
 - 💬 Ask me about: anything but my life.
-- 📫 How to reach me: oohhh toodlesssss. I mean, use the links in the footer.
-- 😄 Pronouns: Professional Disappointment.
-- ⚡ Fun fact: Getting stabbed is very demotivating.
-- 📚 5 Words that best sum me up: Music, Movies, Memes, Minimalism, Melancholy.
+- 📫 How to reach me: Use the links in the footer.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I really like motorsports and simRacing.
+- 📚 5 Words that best sum me up: Gaming, Music, Memes, Travel and yes Pythonista! .
 
 
 **Languages and Tools:** 
