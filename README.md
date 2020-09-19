@@ -24,15 +24,14 @@
 
 - 🔭 I’m currently working on becoming a better analyst by analysing my mistakes.
 - 🔮 What do I do? - Complete my assignments and take part in Kaggle competitions.
-- 🌱 I’m currently learning to use reinforcement learning in real life to control mechanical 
-      conveyances for transporting people or goods...basically, I'm learning how to drive. 
+- 🌱 I’m currently learning to apply data science to various activities around me! 
 - 👯 I’m looking to collaborate on Data Science related projects.
-- 🤔 I’m looking for help with being more productive during the pandemic. 
-- 💬 Ask me about: .
+- 🤔 I’m looking for help with being more productive during the pandemic (And yes my assignments too!). 
+- 💬 Ask me about: Anything.
 - 📫 How to reach me: Use the links in the footer.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I really like motorsports and simRacing.
-- 🖊️ I also try to write once in a while. Check it out!
+- 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@adityamalhotramcs)!
 - 📚 5 Words that best sum me up: Gaming, Music, Memes, Travel and yes Pythonista! .
 
 
@@ -57,7 +56,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <br />
   
   
