@@ -23,51 +23,48 @@
 </em></p>
 
 - 🔭 I’m currently working on becoming a better analyst by analysing my mistakes.
-- 🔮 What do I do? - Complete my assignments and take part in Kaggle competitions
+- 🔮 What do I do? - Complete my assignments and take part in Kaggle competitions.
 - 🌱 I’m currently learning to use reinforcement learning in real life to control mechanical 
       conveyances for transporting people or goods...basically, I'm learning how to drive. 
 - 👯 I’m looking to collaborate on Data Science related projects.
 - 🤔 I’m looking for help with being more productive during the pandemic. 
-- 💬 Ask me about: anything but my life.
+- 💬 Ask me about: .
 - 📫 How to reach me: Use the links in the footer.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I really like motorsports and simRacing.
+- 🖊️ I also try to write once in a while. Check it out!
 - 📚 5 Words that best sum me up: Gaming, Music, Memes, Travel and yes Pythonista! .
 
 
 **Languages and Tools:** 
 
 <p>
-  <a href="https://github.com/anmolpant/SaniText">
-    <img width="60%" align="right" alt="Anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anmolpant&show_icons=true&hide_border=true" />
+  <a>
+    <img width="60%" align="right" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adimalhotra11&show_icons=true&hide_border=true" />
   </a>
 
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+  
+  
 
 </p>
 
 <div align="center">
-
-![VisitorCount](https://profile-counter.glitch.me/{anmolpant}/count.svg)
 
 </div>
 
@@ -99,10 +96,10 @@ const anmol = {
 Please do consider dropping a ⭐ for this repo and some of my recent Deep Learning projects. 🥺
 
 <p align="center">
-  <a href="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray">
+  <a href="https://github.com/adimalhotra11/Detecting-COVID-19-from-X-Ray">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=Detecting-COVID-19-from-X-Ray" />
   </a>
-  <a href="https://github.com/anmolpant/ULMFiT-Sentiment">
+  <a href="https://github.com/adimalhotra11/ULMFiT-Sentiment">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=ULMFiT-Sentiment" />
   </a>
 
