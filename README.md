@@ -11,17 +11,12 @@
 <a href="https://anmolpant.github.io/">
   <img align="left" alt="anmolpant's Portfolio" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/planet.svg" />
 </a>
-<a href="https://www.facebook.com/anmol.pant.3">
+<a href="https://www.facebook.com/aditya.malhotra.12979/">
   <img align="left" alt="anmolpant's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="(https://www.instagram.com/anmolpant/">
+<a href="(https://www.instagram.com/adimalhotra11/">
   <img align="left" alt="anmolpant's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
-<a href="https://open.spotify.com/user/anmolpant?si=ShWKrVCDTyWM2UBkMNH9Vw">
-  <img align="left" alt="anmolpant's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
-<a href="https://www.hackerrank.com/anmolpant">
-  <img align="left" alt="anmolpant's Hackerrank" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
 </a> <br /> <br />
 
 <p><em>Machine Learning Intern at <a href="https://www.linkedin.com/company/technocolabs">Technocolabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
