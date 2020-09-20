@@ -71,23 +71,23 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
-    pronouns: "Bro" | "Bruh",
-    code: ["Javascript", "HTML", "Python", "Java", "C++"],
-    askMeAbout: ["Web dev", "tech", "Machine learning", "TV Shows", "Content Writing", "Memes"],
+const aditya = {
+    pronouns: "He" | "Him",
+    code: ["Python","C++","C","Java"],
+    askMeAbout: ["Data Analytics", "Machine learning/Deep Learning", "Gaming", "Memes"],
     technologies: {
         frontEnd: {
-            css: ["CSS3", "Tailwind", "Bootstrap"]
+            css: ["CSS3", "Bootstrap"]
         },
         backEnd: {
             python: ["Flask","django"]
         },
         devOps: ["AWS","Google Cloud Platform"],
-        databases: ["Mongo", "MySql", "sqlite"],
-        libraries: ["pandas", "numpy", "matplotlib", "open-cv", "]
+        databases: ["MongoDB", "MySql", "sqlite"],
+        libraries: ["pandas", "numpy", "matplotlib", "open-cv", "PyTesseract"]
     },
-    currentProject: "Working on the keyword extraction from short text problem.",
-    funFact: "My jokes are a cry for help."
+    currentProject: "Changes in ground water level in Delhi over a span of+ years.",
+    funFact: "Pubg/F1 ready for a match/race."
 };
 ```
 
