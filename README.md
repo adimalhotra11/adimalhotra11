@@ -23,15 +23,15 @@
 </em></p>
 
 - 🔭 I’m currently working on becoming a better analyst by analysing my mistakes.
+- 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@adityamalhotramcs)!
 - 🔮 What do I do? - Complete my assignments and take part in Kaggle competitions.
-- 🌱 I’m currently learning to apply data science to various activities around me! 
+- 🌱 I’m currently learning to apply data science to Automotive OEMs 
 - 👯 I’m looking to collaborate on Data Science related projects.
 - 🤔 I’m looking for help with being more productive during the pandemic (And yes my assignments too!). 
-- 💬 Ask me about: Anything.
+- 💬 Ask me about: Automobile sector in India and analytics related to it.
 - 📫 How to reach me: Use the links in the footer.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I really like motorsports and simRacing.
-- 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@adityamalhotramcs)!
 - 📚 5 Words that best sum me up: Gaming, Music, Memes, Travel and yes Pythonista! .
 
 
@@ -77,37 +77,22 @@ const anmol = {
     askMeAbout: ["Web dev", "tech", "Machine learning", "TV Shows", "Content Writing", "Memes"],
     technologies: {
         frontEnd: {
-            js: ["Vanilla", "jQuery"],
             css: ["CSS3", "Tailwind", "Bootstrap"]
         },
         backEnd: {
-            python: ["flask"]
+            python: ["Flask","django"]
         },
-        devOps: ["AWS"],
-        databases: ["Mongo", "MySql", "sqlite", "phpMyAdmin"],
-        ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas"]
+        devOps: ["AWS","Google Cloud Platform"],
+        databases: ["Mongo", "MySql", "sqlite"],
+        libraries: ["pandas", "numpy", "matplotlib", "open-cv", "]
     },
     currentProject: "Working on the keyword extraction from short text problem.",
     funFact: "My jokes are a cry for help."
 };
 ```
 
-Please do consider dropping a ⭐ for this repo and some of my recent Deep Learning projects. 🥺
 
-<p align="center">
-  <a href="https://github.com/adimalhotra11/Detecting-COVID-19-from-X-Ray">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=Detecting-COVID-19-from-X-Ray" />
-  </a>
-  <a href="https://github.com/adimalhotra11/ULMFiT-Sentiment">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=ULMFiT-Sentiment" />
-  </a>
 
 
 ---
-
-## Need help?
-<i>Follow me around the web:</i><br>
-
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:anmol.pant2018@vitstudent.ac.in?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Anmol](https://img.shields.io/github/followers/anmolpant?label=follow&style=social)](https://github.com/anmolpant) [![Portfolio](https://img.shields.io/badge/-anmolpant.github.io-242424?style=flat-square&logo=circle&logoColor=White)](https://anmolpant.github.io/) [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/anmol.pant.3) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Anmol-Pant-3) [![Stackoverflow ask](https://img.shields.io/badge/StackOverflow-ask-orange)](https://stackoverflow.com/users/13553697/anmol-pant) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/anmolpant/) [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/theanmolpant) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@anmolpant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pantanmol/) [![Trivago](https://img.shields.io/badge/Hotel%3F-Trivago-brightgreen)](https://www.trivago.in/) [![Twitter Follow](https://img.shields.io/twitter/follow/nastikbrahmin?style=social)](https://twitter.com/nastikbrahmin) 
-
 </p>
