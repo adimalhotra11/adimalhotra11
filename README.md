@@ -14,7 +14,7 @@
 <a href="https://www.facebook.com/aditya.malhotra.12979/">
   <img align="left" alt="adimalhotra11's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="(https://www.instagram.com/adimalhotra11/">
+<a href="https://www.instagram.com/adimalhotra11/?hl=en">
   <img align="left" alt="adimalhotra11's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 </a> <br /> <br />
