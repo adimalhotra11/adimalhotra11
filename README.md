@@ -80,14 +80,14 @@ const aditya = {
             css: ["CSS3", "Bootstrap"]
         },
         backEnd: {
-            python: ["Flask","django"]
+            python: ["Flask","Django"]
         },
-        devOps: ["AWS","Google Cloud Platform"],
-        databases: ["MongoDB", "MySql", "sqlite"],
-        libraries: ["pandas", "numpy", "matplotlib", "open-cv", "PyTesseract"]
+        devOps: ["Google Cloud Platform" , "AWS"],
+        databases: ["MySql" , "MongoDB"],
+        libraries: ["pandas", "numpy", "matplotlib", "SciPy", "Open-cv"]
     },
-    currentProject: "Changes in ground water level in Delhi over a span of+ years.",
-    funFact: "Pubg/F1 ready for a match/race."
+    currentProject: "Detecting Fake reviews on Amazon.",
+    funFact: "."
 };
 ```
 
