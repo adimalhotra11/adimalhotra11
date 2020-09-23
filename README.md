@@ -66,9 +66,9 @@
 <div align="center">
 
 </div>
+  
 
-
-##  A little more about me...  
+##  More about me...  
 
 ```javascript
 const aditya = {
