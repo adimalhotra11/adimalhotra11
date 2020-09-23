@@ -1,5 +1,5 @@
 
-<h2>Hey, Hello, नमस्ते 🙏🏻, I'm Aditya Malhotra! </h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<h2>Hey, Hello, नमस्ते 🙏🏻, I'm Aditya Malhotra! </h2> <img align='right' src="https://media4.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e474vfhxx7f4b600v4s8fmcnnkgc139seu9fuwe3e9c&rid=200w.webp" width="230"> 
 <br/>
 <div align = 'left'>
 <a href="https://twitter.com/adimalhotra11">
