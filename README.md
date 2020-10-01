@@ -97,3 +97,4 @@ const aditya = {
 
 ---
 </p>
+![](https://komarev.com/ghpvc/?username=exactlyprateek&color=green&style=flat)
