@@ -94,7 +94,6 @@ const aditya = {
 
 
 
-
+![](https://komarev.com/ghpvc/?username=adimalhotra11&color=green&style=flat)
 ---
 </p>
-![](https://komarev.com/ghpvc/?username=exactlyprateek&color=green&style=flat)
