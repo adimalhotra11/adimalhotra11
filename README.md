@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on Data Science related projects.
 - 🤔 I’m looking for help with being more productive during the pandemic (And yes my assignments too!). 
 - 💬 Ask me about: Automobile sector in India and analytics related to it.
-- 📫 How to reach me: Use the links in the footer.
+- 📫 How to reach me: Click on the above icons.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I really like motorsports and simRacing.
 - 📚 5 Words that best sum me up: Gaming, Music, Memes, Travel and yes Pythonista! .
