@@ -8,9 +8,7 @@
 <a href="https://www.linkedin.com/in/adimalhotra11/">
   <img align="left" alt="adimalhotra11's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-<a href="https://adimalhotra11.github.io/">
-  <img align="left" alt="adimalhotra11's Portfolio" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/684/684810.svg" />
-</a>
+
 <a href="https://www.facebook.com/aditya.malhotra.12979/">
   <img align="left" alt="adimalhotra11's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
@@ -22,17 +20,14 @@
 <p><em>Looking For an Internship in Data Analytics!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>B.tech in Information Technology Student at <a href="http://www.msit.in/">Maharaja Surajmal Institute of Technology(GGSIPU, Delhi)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-- 🔭 I’m currently working on becoming a better analyst by analysing my mistakes.
-- 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@adityamalhotramcs)!
-- 🔮 What do I do? - Complete my assignments and take part in Kaggle competitions.
-- 🌱 I’m currently learning to apply data science to Automotive OEMs 
+- 🔭 I’m currently working on improving data structures and algorithms.
+- 🔮 What do I do? - Learning new things everyday.
+- 🌱 I’m currently learning to apply data science to unexplored datasets. 
 - 👯 I’m looking to collaborate on Data Science related projects.
-- 🤔 I’m looking for help with being more productive during the pandemic (And yes my assignments too!). 
-- 💬 Ask me about: Automobile sector in India and analytics related to it.
+- 🤔 I’m looking for help with learning backend dev using django. 
+- 💬 Ask me about: AMA on anything, hit me up on LinkedIn!
 - 📫 How to reach me: Click on the above icons.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I really like motorsports and simRacing.
-- 📚 5 Words that best sum me up: Gaming, Music, Memes, Travel and yes Pythonista! .
+
 
 
 **Languages and Tools:** 
