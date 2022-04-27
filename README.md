@@ -2,22 +2,7 @@
 <h2>Hey, Hello, नमस्ते 🙏🏻, I'm Aditya Malhotra! </h2> <img align='right' src="https://media4.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e474vfhxx7f4b600v4s8fmcnnkgc139seu9fuwe3e9c&rid=200w.webp" width="230"> 
 <br/>
 <div align = 'left'>
-<a href="https://twitter.com/adimalhotra11">
-  <img align="left" alt="adimalhotra11 | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
-<a href="https://www.linkedin.com/in/adimalhotra11/">
-  <img align="left" alt="adimalhotra11's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-
-<a href="https://www.facebook.com/aditya.malhotra.12979/">
-  <img align="left" alt="adimalhotra11's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/adimalhotra11/?hl=en">
-  <img align="left" alt="adimalhotra11's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-</a> <br /> <br />
-
-<p><em>Looking For an Internship in Data Analytics!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>B.tech in Information Technology Student at <a href="http://www.msit.in/">Maharaja Surajmal Institute of Technology(GGSIPU, Delhi)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Looking for full time opportunities in Backend Development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>B.tech in Information Technology Student at <a href="http://www.msit.in/">Maharaja Surajmal Institute of Technology(GGSIPU, Delhi)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 - 🔭 I’m currently working on improving data structures and algorithms.
